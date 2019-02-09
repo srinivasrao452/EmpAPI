@@ -5,3 +5,4 @@ class Emp(models.Model):
     empname = models.CharField(max_length=20)
     salary = models.DecimalField(max_digits=10, decimal_places=2)
 
+ 
