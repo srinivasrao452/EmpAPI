@@ -87,6 +87,7 @@ WSGI_APPLICATION = 'EmpAPI.wsgi.application'
 # }
 
 
+# DB details
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
