@@ -39,7 +39,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'EmpApp.apps.EmpappConfig',
     
-    'rest_framework',
+    'rest_framework',  # add this one to newly
 
 
 ]
