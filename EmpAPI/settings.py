@@ -90,7 +90,7 @@ WSGI_APPLICATION = 'EmpAPI.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'restapi2',
+        'NAME': 'empapi_db',
         'USER' : 'root',
         'PASSWORD' : 'root',
     }
